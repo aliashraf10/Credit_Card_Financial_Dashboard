@@ -10,6 +10,8 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 
 - Used DAX to create various measures for creating visualizations on the dashboard.
 
+- Create interactive dashboard which muktiple charts and buttons to filter to analyse necessary metrics.
+
 
 # Key Insights
 Extracted various business insights for the credit card company to help it make decisions to expand and scale up. Following insights can be obtained:
@@ -32,4 +34,10 @@ Extracted various business insights for the credit card company to help it make 
 
 For more details, download and open the Power BI file above.
 
+Credit Card Transaction Report
+
 ![image](https://github.com/user-attachments/assets/f36ca658-b9ed-480d-9246-f33bc27f9b60)
+
+Credit Card Customer Report
+
+![image](https://github.com/user-attachments/assets/3069e282-a227-4b77-99e9-a077c0337ae1)
