@@ -32,3 +32,4 @@ Extracted various business insights for the credit card company to help it make 
 
 For more details, download and open the Power BI file above.
 
+![image](https://github.com/user-attachments/assets/f36ca658-b9ed-480d-9246-f33bc27f9b60)
